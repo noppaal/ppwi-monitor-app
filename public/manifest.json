@@ -1,0 +1,21 @@
+{
+  "name": "PPWI Monitor Mobile",
+  "short_name": "PPWI Monitor",
+  "description": "Aplikasi Pemantauan Dokumen PPWI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141412",
+  "theme_color": "#141412",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
